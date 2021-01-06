@@ -7,3 +7,6 @@
 ### 注意
 如果安装脚手架后无法正常生成项目，请先配置系统环境变量，可参照这个链接进行配置：
 <https://blog.csdn.net/ruiti/article/details/90375464>
+
+### vue2.x-mobile-framework仓库地址
+<https://github.com/WJjack/vue2.x-mobile-framework>

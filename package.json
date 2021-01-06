@@ -1,6 +1,6 @@
 {
   "name": "@wjjack/vue2.x-mobile-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "vue2.x移动端脚手架",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,9 @@
   "bin": {
     "@wjjack/vue2.x-mobile-cli": "./bin/index.js"
   },
-  "keywords": [],
-  "author": "",
+  "repository": "https://github.com/WJjack/wj-vue2.x-mobile-cli",
+  "keywords": ["vue-cli", "vue2.x-cli", "cli", "vue/cli", "wj"],
+  "author": "wjjack",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
